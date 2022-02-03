@@ -1,6 +1,6 @@
 [website]: https://nidolai.me
 
-<img align="left" width="210" height="398" alt="Nidolai" src="./assets/AvatarHi.png"/>
+<img align="left" width="210" height="420" alt="Nidolai" src="./assets/AvatarHi.png"/>
 
 ### Hi I'm Nicolai - aka [Nidolai][website] :wave:
 
